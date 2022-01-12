@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=auto&section=header&text=Workshop%20&fontSize=50" link="https://hello2.tistory.com/"/>
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=o Hell👋%20&fontSize=50" link="https://hello2.tistory.com/"/>
 
 <a href="https://hello2.tistory.com/">
     <img 
