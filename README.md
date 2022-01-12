@@ -2,6 +2,11 @@
 
 <a href="https://hello2.tistory.com/" onclick="window.open(this.href);return false;"><img src="https://img.shields.io/badge/블로그-000000?style="height : auto; margin-left : 10px; margin-right : 10px;" 로고모양&logo=Storyblok&logoColor=FF5722" /></a>
 
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **JeongJaew0n/JeongJaew0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
