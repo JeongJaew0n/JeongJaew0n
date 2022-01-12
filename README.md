@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://hello2.tistory.com/" onclick="window.open(this.href);return false;"><img src="https://img.shields.io/badge/블로그-000000?style=social&logo=appveyor&logo=Storyblok&logoColor=FF5722"/></a>
+<a href="https://hello2.tistory.com/" onclick="window.open(this.href);return false;"><img src="https://img.shields.io/badge/블로그-000000?style=plastic&logo=appveyor&logo=Storyblok&logoColor=FF5722"/></a>
 
 
 <!--
