@@ -2,7 +2,7 @@
 
 <a href="https://hello2.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/Instagram-black?style=flat&logo=Blog&link="https://hello2.tistory.com/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Blog&link="https://hello2.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
