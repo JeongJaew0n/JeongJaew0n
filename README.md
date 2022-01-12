@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 <a href="https://hello2.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Blog-black?style=flat&logo=Storyblok&link="https://hello2.tistory.com/"
