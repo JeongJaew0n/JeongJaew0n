@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<a href="https://hello2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/블로그-000000?style=?style=for-the-badge&logo=appveyor&logo=.NET&logoColor=FF5722"/></a>
+<a href="https://hello2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/블로그-000000?style=?style=for-the-badge&logo=appveyor&logo=Instagram&link=https://instagram.com/alpox.dev/"&logoColor=FF5722"/></a>
+
 
 <a href="https://hello2.tistory.com/" onclick="window.open(this.href);return false;"><img src="https://img.shields.io/badge/블로그-000000?style=뱃지모양&logo=로고&logoColor=FF5722"/></a>
 
