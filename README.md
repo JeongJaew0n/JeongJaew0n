@@ -2,10 +2,11 @@
 
 <a href="https://hello2.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Blog&link="https://hello2.tistory.com/"
+        src="http://img.shields.io/badge/-Blog-black?style=flat&logo=Storyblok&link="https://hello2.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+                                                          
+                                                                       
 <!--
 **JeongJaew0n/JeongJaew0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
