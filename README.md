@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=oHell👋%20&fontSize=50" link="https://hello2.tistory.com/"/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=oHell👋%20&fontSize=50" link="https://hello2.tistory.com/"/>
 
 <a href="https://hello2.tistory.com/">
     <img 
